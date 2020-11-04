@@ -9,11 +9,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data Access Layer", "3. 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business Logic Layer", "2. Business Logic Layer", "{689FF638-CDCA-4AF3-9C19-244E3D865293}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObjects", "BusinessObject\BusinessObjects.csproj", "{FA3C3DE9-A610-4D84-A4C4-626B49CE22D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessObjects", "BusinessObject\BusinessObjects.csproj", "{FA3C3DE9-A610-4D84-A4C4-626B49CE22D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataObjects", "DataObjects\DataObjects.csproj", "{541DECF1-3931-47BD-8002-48D755FF0099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataObjects", "DataObjects\DataObjects.csproj", "{541DECF1-3931-47BD-8002-48D755FF0099}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JayShop", "JayShop\JayShop.csproj", "{F5F9F154-96EE-4F06-9E90-F7CD1A279962}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JayShop", "JayShop\JayShop.csproj", "{F5F9F154-96EE-4F06-9E90-F7CD1A279962}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{55D9FE4F-98A3-46D6-9292-02138AD063D5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
